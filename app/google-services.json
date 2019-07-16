@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925219505355",
+    "firebase_url": "https://aquapi-91c9e.firebaseio.com",
+    "project_id": "aquapi-91c9e",
+    "storage_bucket": "aquapi-91c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925219505355:android:c75da9114d6983d7",
+        "android_client_info": {
+          "package_name": "com.example.aquapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925219505355-lcukqbl1k5nm5puic4ir766s0uchl6vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNwrtU2qhGcRHdr013ULDWSfCHMZOZp3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925219505355-lcukqbl1k5nm5puic4ir766s0uchl6vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

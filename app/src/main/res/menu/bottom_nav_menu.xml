@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="AquaPi" />
+    <item
+        android:id="@+id/estadistics"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="Estadisticas" />
+    <item
+        android:id="@+id/developers"
+        android:icon="@drawable/ic_perm_identity_black_24dp"
+        android:title="Desarrolladores" />
+</menu>
